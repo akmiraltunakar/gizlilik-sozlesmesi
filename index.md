@@ -18,7 +18,7 @@ Welcome to our Privacy Policy page. Please select your language:
 
 **Last updated:** 31 July 2026
 
-**Developer Simulator** ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy applies to our application named **Developer Simulator**, and its associated subdomains. By accessing or using our Service, you signify that you have read, understood, and agree to our collection, storage, use, and disclosure of your personal information as described in this Privacy Policy.
+**Developer Sim: Idle Clicker** ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy applies to our application named **Developer Sim: Idle Clicker**, and its associated subdomains. By accessing or using our Service, you signify that you have read, understood, and agree to our collection, storage, use, and disclosure of your personal information as described in this Privacy Policy.
 
 ### 1. Information We Collect
 *   **Information you provide:** We do not collect any personal data.
@@ -58,7 +58,7 @@ Sorularınız için bizimle iletişime geçin:
 
 **Zuletzt aktualisiert:** 31. Juli 2026
 
-**Developer Simulator** verpflichtet sich, Ihre Privatsphäre zu schützen. Diese Datenschutzerklärung gilt für unsere Anwendung **Developer Simulator**. Durch die Nutzung unseres Dienstes erklären Sie sich mit der Erfassung und Nutzung von Informationen in Übereinstimmung mit dieser Richtlinie einverstanden.
+**Developer Sim: Idle Clicker** verpflichtet sich, Ihre Privatsphäre zu schützen. Diese Datenschutzerklärung gilt für unsere Anwendung **Developer Sim: Idle Clicker**. Durch die Nutzung unseres Dienstes erklären Sie sich mit der Erfassung und Nutzung von Informationen in Übereinstimmung mit dieser Richtlinie einverstanden.
 
 ### 1. Welche Informationen wir sammeln
 *   **Von Ihnen bereitgestellte Informationen:** Wir sammeln keine personenbezogenen Daten.
@@ -78,7 +78,7 @@ Bei Fragen kontaktieren Sie uns bitte:
 
 **Dernière mise à jour :** 31 Juillet 2026
 
-**Developer Simulator** s'engage à protéger votre vie privée. Cette politique de confidentialité s'applique à notre application **Developer Simulator**. En utilisant notre service, vous acceptez la collecte et l'utilisation d'informations conformément à cette politique.
+**Developer Sim: Idle Clicker** s'engage à protéger votre vie privée. Cette politique de confidentialité s'applique à notre application **Developer Sim: Idle Clicker**. En utilisant notre service, vous acceptez la collecte et l'utilisation d'informations conformément à cette politique.
 
 ### 1. Les informations que nous collectons
 *   **Informations que vous fournissez :** Nous ne collectons aucune donnée personnelle.
@@ -98,7 +98,7 @@ Si vous avez des questions, veuillez nous contacter :
 
 **Последнее обновление:** 31 Июля 2026 г.
 
-Мы обязуемся защищать вашу конфиденциальность в игре **Developer Simulator**. Эта Политика конфиденциальности применяется к нашему приложению **Developer Simulator**. Используя наш Сервис, вы соглашаетесь со сбором и использованием информации в соответствии с этой политикой.
+Мы обязуемся защищать вашу конфиденциальность в игре **Developer Sim: Idle Clicker**. Эта Политика конфиденциальности применяется к нашему приложению **Developer Sim: Idle Clicker**. Используя наш Сервис, вы соглашаетесь со сбором и использованием информации в соответствии с этой политикой.
 
 ### 1. Информация, которую мы собираем
 *   **Информация от вас:** Мы не собираем личные данные.
@@ -118,7 +118,7 @@ Si vous avez des questions, veuillez nous contacter :
 
 **Última actualización:** 31 de Julio de 2026
 
-**Developer Simulator** se compromete a proteger su privacidad. Esta Política de Privacidad se aplica a nuestra aplicación **Developer Simulator**. Al utilizar nuestro Servicio, usted acepta la recopilación y el uso de información de acuerdo con esta política.
+**Developer Sim: Idle Clicker** se compromete a proteger su privacidad. Esta Política de Privacidad se aplica a nuestra aplicación **Developer Sim: Idle Clicker**. Al utilizar nuestro Servicio, usted acepta la recopilación y el uso de información de acuerdo con esta política.
 
 ### 1. Información que recopilamos
 *   **Información que usted proporciona:** No recopilamos ningún dato personal.
@@ -138,7 +138,7 @@ Si tiene alguna pregunta, contáctenos:
 
 **Última atualização:** 31 de Julho de 2026
 
-**Developer Simulator** tem o compromisso de proteger sua privacidade. Esta Política de Privacidade se aplica ao nosso aplicativo **Developer Simulator**. Ao usar nosso Serviço, você concorda com a coleta e o uso de informações de acordo com esta política.
+**Developer Sim: Idle Clicker** tem o compromisso de proteger sua privacidade. Esta Política de Privacidade se aplica ao nosso aplicativo **Developer Sim: Idle Clicker**. Ao usar nosso Serviço, você concorda com a coleta e o uso de informações de acordo com esta política.
 
 ### 1. Informações que coletamos
 *   **Informações que você fornece:** Não coletamos dados pessoais.
@@ -158,7 +158,7 @@ Se você tiver alguma dúvida, contate-nos:
 
 **Ultimo aggiornamento:** 31 Luglio 2026
 
-**Developer Simulator** si impegna a proteggere la tua privacy. Questa Informativa sulla Privacy si applica alla nostra applicazione **Developer Simulator**. Utilizzando il nostro Servizio, accetti la raccolta e l'uso delle informazioni in conformità con questa politica.
+**Developer Sim: Idle Clicker** si impegna a proteggere la tua privacy. Questa Informativa sulla Privacy si applica alla nostra applicazione **Developer Sim: Idle Clicker**. Utilizzando il nostro Servizio, accetti la raccolta e l'uso delle informazioni in conformità con questa politica.
 
 ### 1. Informazioni che raccogliamo
 *   **Informazioni che fornisci:** Non raccogliamo alcun dato personale.
@@ -178,7 +178,7 @@ Se hai domande, contattaci:
 
 **最後更新日期：** 2026年7月31日
 
-**Developer Simulator** ("我們") 致力於保護您的隱私。本隱私政策適用於我們的應用程式 **Developer Simulator**。透過存取或使用我們的服務，您即表示您已閱讀、理解並同意我們按照本隱私政策的規定收集、儲存、使用和披露您的個人資訊。
+**Developer Sim: Idle Clicker** ("我們") 致力於保護您的隱私。本隱私政策適用於我們的應用程式 **Developer Sim: Idle Clicker**。透過存取或使用我們的服務，您即表示您已閱讀、理解並同意我們按照本隱私政策的規定收集、儲存、使用和披露您的個人資訊。
 
 ### 1. 我們收集的資訊
 *   **您提供的資訊：** 我們不收集任何個人資料。
