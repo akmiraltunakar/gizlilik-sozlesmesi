@@ -1,4 +1,8 @@
-# Privacy Policy / Gizlilik Politikası
+# Privacy Policy / Gizlilik Politikası , Support / İletişim
+
+<h2>Support / İletişim</h2>
+<p>If you have any questions or need support regarding Developer Sim: Idle Clicker, please contact us at:</p>
+<p>Email: <b>vahitakmir-altunakar@hotmail.com</b></p>
 
 Welcome to our Privacy Policy page. Please select your language:
 
@@ -191,9 +195,3 @@ Se hai domande, contattaci:
 ### 3. 聯絡我們
 如果您有任何問題，請聯絡我們：
 *   透過電子郵件：vahitakmir-altunakar@hotmail.com
-
-
-
-<h2>Support / İletişim</h2>
-<p>If you have any questions or need support regarding Developer Sim: Idle Clicker, please contact us at:</p>
-<p>Email: <b>vahitakmir-altunakar@hotmail.com</b></p>
